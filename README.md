@@ -7,3 +7,7 @@ There is also an empty set file, which makes it easy to create new sets that con
 ## Contributing
 
 This repository is meant so that I don't lose the sets I've created, but if you find these useful, or you think a set should exist that doesn't yet, feel free to submit an issue or a pull request.
+
+## License
+
+Note that the icons included in these sets are subject to the Font Awesome license, which can be found at <http://fortawesome.github.io/Font-Awesome/license>.  The license on this repository applies to everything that is _not_ already covered by the Font Awesome license.
