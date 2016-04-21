@@ -1,0 +1,43 @@
+{
+	"selection": [],
+	"metadata": {
+		"name": "Font Awesome 4.6.1 –",
+		"url": "http://fortawesome.github.com/Font-Awesome/",
+		"designer": "Dave Gandy",
+		"designerURL": "https://github.com/davegandy",
+		"license": "Custom",
+		"licenseURL": "http://fortawesome.github.io/Font-Awesome/license/",
+		"iconsHash": 0
+	},
+	"height": 1024,
+	"prevSize": 28,
+	"icons": [],
+	"colorThemes": [],
+	"preferences": {
+		"showGlyphs": true,
+		"showCodes": true,
+		"showQuickUse": true,
+		"showQuickUse2": true,
+		"showSVGs": true,
+		"fontPref": {
+			"prefix": "icon-",
+			"metadata": {},
+			"metrics": {
+				"emSize": 1024,
+				"baseline": 6.25,
+				"whitespace": 50
+			}
+		},
+		"imagePref": {
+			"prefix": "icon-",
+			"png": true,
+			"useClassSelector": true,
+			"color": 0,
+			"bgColor": 16777215,
+			"classSelector": ".icon"
+		},
+		"historySize": 100,
+		"gridSize": 16
+	},
+	"IcoMoonType": "icon-set"
+}
